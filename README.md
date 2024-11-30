@@ -1,3 +1,3 @@
 # rumanasardar
-This is my new world
-author rumana sardar
+This is my new world.
+author-rumana sardar
